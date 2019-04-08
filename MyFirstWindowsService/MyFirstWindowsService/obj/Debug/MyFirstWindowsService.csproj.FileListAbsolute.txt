@@ -1,0 +1,8 @@
+c:\users\mq2eea\documents\visual studio 2017\Projects\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+c:\users\mq2eea\documents\visual studio 2017\Projects\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+c:\users\mq2eea\documents\visual studio 2017\Projects\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+c:\users\mq2eea\documents\visual studio 2017\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csprojResolveAssemblyReference.cache
+c:\users\mq2eea\documents\visual studio 2017\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+c:\users\mq2eea\documents\visual studio 2017\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.Cache
+c:\users\mq2eea\documents\visual studio 2017\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+c:\users\mq2eea\documents\visual studio 2017\Projects\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb
