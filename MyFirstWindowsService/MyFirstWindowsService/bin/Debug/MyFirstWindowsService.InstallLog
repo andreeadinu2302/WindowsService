@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
