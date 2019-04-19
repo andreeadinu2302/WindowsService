@@ -1,0 +1,6 @@
+C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\WCFLibraryServer-Client\bin\Debug\WCFLibraryServer-Client.dll.config
+C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\WCFLibraryServer-Client\bin\Debug\WCFLibraryServer-Client.dll
+C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\WCFLibraryServer-Client\bin\Debug\WCFLibraryServer-Client.pdb
+C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\WCFLibraryServer-Client\obj\Debug\WCFLibraryServer-Client.csprojResolveAssemblyReference.cache
+C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\WCFLibraryServer-Client\obj\Debug\WCFLibraryServer-Client.dll
+C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\WCFLibraryServer-Client\obj\Debug\WCFLibraryServer-Client.pdb

@@ -40,7 +40,7 @@ namespace MyFirstWindowsService
 
         private void OnElapsedTime(object source, ElapsedEventArgs e)
         {
-            WriteToFile("Service is recall at " + DateTime.Now);
+            WriteToFile("Hello World!");
         }
 
         public void WriteToFile(string Message)

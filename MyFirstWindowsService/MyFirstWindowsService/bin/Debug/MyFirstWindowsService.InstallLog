@@ -11,3 +11,135 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
    assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Installing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Uninstalling assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Uninstalling assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Uninstalling assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Uninstalling assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Restoring event log to previous state for source Service1.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.InstallLog
+   assemblypath = C:\Users\mq2eea\Desktop\WindowsService\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
